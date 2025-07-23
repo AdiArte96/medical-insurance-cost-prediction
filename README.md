@@ -1,4 +1,4 @@
-\# Medical Insurance Cost Prediction Using Machine Learning
+# Medical Insurance Cost Prediction Using Machine Learning
 
 
 
@@ -16,7 +16,7 @@ This project applies machine learning algorithms in Python to predict medical in
 
 
 
-\## 📌 Project Overview
+## 📌 Project Overview
 
 
 
@@ -28,7 +28,7 @@ Predicting insurance charges helps both policyholders and providers manage risks
 
 
 
-\## 🔍 Objective
+## 🔍 Objective
 
 
 
@@ -40,23 +40,23 @@ To compare the performance of multiple machine learning models for predicting me
 
 
 
-\## 🛠 Tools \& Techniques
+## 🛠 Tools & Techniques
 
 
 
-\- \*\*Python (Jupyter Notebook)\*\*  
+- **Python (Jupyter Notebook)**  
 
-\- \*\*scikit-learn\*\*  
+- **scikit-learn**  
 
-\- \*\*Pandas / Numpy / Matplotlib\*\*  
+- **Pandas / Numpy / Matplotlib**  
 
-\- \*\*Dummy Variable Creation\*\*  
+- **Dummy Variable Creation**  
 
-\- \*\*Data Normalization\*\*  
+- **Data Normalization**  
 
-\- \*\*Model Evaluation Metrics\*\* (MSE, RMSE, MAE, R²)  
+- **Model Evaluation Metrics** (MSE, RMSE, MAE, R²)  
 
-\- \*\*Piecewise Linear Regression\*\*
+- **Piecewise Linear Regression**
 
 
 
@@ -64,7 +64,7 @@ To compare the performance of multiple machine learning models for predicting me
 
 
 
-\## 📈 Model Performance Summary
+## 📈 Model Performance Summary
 
 
 
@@ -78,7 +78,7 @@ To compare the performance of multiple machine learning models for predicting me
 
 | K-Nearest Neighbours     | 63.77%   | 5,290.50 | 3,294.13|
 
-| \*\*Piecewise Regression\*\* | \*\*84.11%\*\* | \*\*4,826.67\*\* | \*\*2,876.09\*\* |
+| **Piecewise Regression** | **84.11%** | **4,826.67** | **2,876.09** |
 
 
 
@@ -90,15 +90,15 @@ To compare the performance of multiple machine learning models for predicting me
 
 
 
-\## 📊 Visualizations
+## 📊 Visualizations
 
 
 
-\- Histogram distributions of Age and BMI  
+- Histogram distributions of Age and BMI  
 
-\- Boxplots for outlier detection  
+- Boxplots for outlier detection  
 
-\- Frequency plots for categorical variables  
+- Frequency plots for categorical variables  
 
 
 
@@ -110,7 +110,7 @@ To compare the performance of multiple machine learning models for predicting me
 
 
 
-\## 📁 Project Structure
+## 📁 Project Structure
 
 
 
@@ -118,7 +118,7 @@ To compare the performance of multiple machine learning models for predicting me
 
 ├── notebook/
 
-│   └── ML\_Assignment.ipynb               # Python code with model training \& evaluation
+│   └── ML\_Assignment.ipynb               # Python code with model training & evaluation
 
 ├── report/
 
